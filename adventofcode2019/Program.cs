@@ -9,7 +9,7 @@ namespace adventofcode2019
             Console.WriteLine("Hello World!");
             while(true)
             {
-
+// lol idk
             }
         }
     }
